@@ -1,17 +1,17 @@
- <h1 align="center">Hi 👋, I'm,shrujan</h1>
+
   <h3 align="center">A passionate frontend developer from India</h3>
   
   
   
   
   
-  -📝 I regularly write articles on [dsfvsd] (dsfvsd)  
   
   
   
   
   
-  Languages and Tools : <img src="#" alt="c">   <img src="#" alt="java">
+  
+  Languages and Tools : <img src="/logo/pl1.png" alt="c">   <img src="/logo/pl3.png" alt="csha">   <img src="/logo/pl6.png" alt="javascript">
   
         <p align="left"> <img src="https://komarev.com/ghpvc/?username=null&label=Profile%20views&color=0e75b6&style=flat" alt="null" /> </p>
         <p>Followers: 167</p>
