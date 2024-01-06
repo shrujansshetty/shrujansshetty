@@ -15,7 +15,8 @@
   style="border-radius: 50%; height: 3em; width: 3em;"></a><a ><img src="https://i.ibb.co/kDkg95M/sm23.png" fill="currentColor" class="social" viewBox="0 0 0 0"
   style="border-radius: 50%; height: 3em; width: 3em;"></a></p>
  <style>
-   .img{
+   img{
+     
 margin:1em;
      }
    </style>
