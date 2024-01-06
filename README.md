@@ -1,9 +1,7 @@
-  <h3 align="center">A passionate frontend developer from India</h3>
+ <h3 align="center">A passionate frontend developer from India</h3>
 
-  <br> ![Profile views](https://komarev.com/ghpvc/?username=shrujansshetty&label=Profile%20views&color=0e75b6&style=flat) <br><br> [![trophy](https://github-profile-trophy.vercel.app/?username=shrujansshetty)](https://github.com/ryo-ma/github-profile-trophy) <br>
-
+  <br> ![Profile views](https://komarev.com/ghpvc/?username=shrujansshetty&label=Profile%20views&color=0e75b6&style=flat) <br><br> [![trophy](https://github-profile-trophy.vercel.app/?username=shrujansshetty)](https://github.com/ryo-ma/github-profile-trophy) <br><br>![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shrujansshetty&show_icons=true)<br><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrujansshetty&layout=compact)<br><br>![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?shrujansshetty)<br><br>[![Twitter Follow](https://img.shields.io/twitter/follow/shrujansshetty?style=social)](https://twitter.com/shrujansshetty)<br><br>![Latest Dev.to Blog](https://img.shields.io/endpoint?url=https://devto.latest-story-badge.vercel.app/api?username=fwdqfewr&rss_url=egewrageqrera)<br><br>![Latest Medium Blog](https://img.shields.io/endpoint?url=https://medium.latest-story-badge.vercel.app/api?username=gerertgehg&rss_url=egewrageqrera)<br><br>![Latest Blog](https://img.shields.io/endpoint?url=https://yourblog.latest-story-badge.vercel.app/api?rss_url=https://egewrageqrera/rss)<br>
+  <h3 align="left">Connect with me:</h3>
   <p align="left">
-
+  <a href="https://dev.to/fwdqfewr" target="blank"><img src="https://i.ibb.co/fnr7bjB/sm2.png" fill="currentColor" class="social" viewBox="0 0 0 0" style="border-radius: 50%; height: 3em; width: 3em;"></a>    <a  href="https://twitter.com/shrujansshetty" target="blank"><img src="https://i.ibb.co/YZ1WV2d/sm13.png" fill="currentColor" class="social" viewBox="0 0 0 0" style="border-radius: 50%; height: 3em; width: 3em;"></a>    <a href="https://medium.com/gerertgehg" target="blank"><img src="https://i.ibb.co/jMwbVZx/sm19.png" fill="currentColor" class="social" viewBox="0 0 0 0" style="border-radius: 50%; height: 3em; width: 3em;"></a>    <a href="/egewrageqrera" target="blank"><img src="https://i.ibb.co/Hzvj1Zp/sm24.png" fill="currentColor" class="social" viewBox="0 0 0 0" style="border-radius: 50%; height: 3em; width: 3em;"></a>    
   </p>
-
-  
