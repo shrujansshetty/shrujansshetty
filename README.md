@@ -4,9 +4,9 @@
 
   <h3 align="left">Connect with me:</h3>
 
-  <p align="left"><a ><img src="https://i.ibb.co/X5ghZZc/sm1.png" fill="currentColor" class="social" viewBox="0 0 0 0"
-  style="border-radius: 50%; height: 3em; width: 3em;">
-</a><a ><img src="https://i.ibb.co/fnr7bjB/sm2.png"  style="border-radius: 50%; height: 3em; width: 3em;"></a></p><p align="left"><a ><img src="https://i.ibb.co/nwzq623/sm5.png" style="border-radius: 50%; height: 3em; width: 3em;"></a></p><p align="left"><a ><img src="https://i.ibb.co/j3W9FPy/sm7.png" fill="currentColor" class="social" viewBox="0 0 0 0"
+  <p align="left">
+    <a ><img src="https://i.ibb.co/X5ghZZc/sm1.png" fill="currentColor" class="social" viewBox="0 0 0 0"style="border-radius: 50%; height: 3em; width: 3em;"></a>
+    <a ><img src="https://i.ibb.co/fnr7bjB/sm2.png"  style="border-radius: 50%; height: 3em; width: 3em;"></a><a ><img src="https://i.ibb.co/nwzq623/sm5.png" style="border-radius: 50%; height: 3em; width: 3em;"></a><a ><img src="https://i.ibb.co/j3W9FPy/sm7.png" fill="currentColor" class="social" viewBox="0 0 0 0"
   style="border-radius: 50%; height: 3em; width: 3em;"></a><a ><img src="https://i.ibb.co/tHbHCsG/sm12.png" fill="currentColor" class="social" viewBox="0 0 0 0"
   style="border-radius: 50%; height: 3em; width: 3em;"></a><a ><img src="https://i.ibb.co/YZ1WV2d/sm13.png" fill="currentColor" class="social" viewBox="0 0 0 0"
   style="border-radius: 50%; height: 3em; width: 3em;"></a><a ><img src="https://i.ibb.co/0jssxtD/sm15.png" fill="currentColor" class="social" viewBox="0 0 0 0"
