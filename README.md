@@ -3,7 +3,8 @@
   <h3 align="center">A passionate frontend developer from India</h3>
 
   <h3 align="left">Connect with me:</h3>
-  <div style="display:flex; flex-direction:row;">
+  <div style="display: flex;
+  flex-direction: row;">
   <p align="left"><a ><img src="https://i.ibb.co/X5ghZZc/sm1.png" fill="currentColor" class="social" viewBox="0 0 0 0"
   style="border-radius: 50%; height: 3em; width: 3em;">
 </a></p><p align="left"><a ><img src="https://i.ibb.co/fnr7bjB/sm2.png" fill="currentColor" class="social" viewBox="0 0 0 0"
