@@ -14,6 +14,10 @@
   style="border-radius: 50%; height: 3em; width: 3em;"></a><a ><img src="https://i.ibb.co/Np13Kj2/sm21.png" fill="currentColor" class="social" viewBox="0 0 0 0"
   style="border-radius: 50%; height: 3em; width: 3em;"></a><a ><img src="https://i.ibb.co/kDkg95M/sm23.png" fill="currentColor" class="social" viewBox="0 0 0 0"
   style="border-radius: 50%; height: 3em; width: 3em;"></a></p>
- 
+ <style>
+   .img{
+margin:1em;
+     }
+   </style>
   Languages and Tools : <img src="https://i.ibb.co/KzKQVZy/ssg1.png" alt="gatsby" style="height: 3em; width: 3em; border-radius: 50%;">   <img src="https://i.ibb.co/nbgR5pD/ssg5.png" alt="nextjs" style="height: 3em; width: 3em; border-radius: 50%;">   <img src="https://i.ibb.co/9wdDmjv/ssg9.jpg" alt="sculpin" style="height: 3em; width: 3em; border-radius: 50%;">   <img src="https://i.ibb.co/pWKdvGd/o1.png" alt="unity" style="height: 3em; width: 3em; border-radius: 50%;">   <img src="https://i.ibb.co/XbKJs7j/o3.png" alt="zapier" style="height: 3em; width: 3em; border-radius: 50%;">
   
