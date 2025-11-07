@@ -7,8 +7,7 @@
 ### 🧠 About Me
 
 - 🔭 Currently working on **full-stack projects using Spring Boot, Express, React, and MongoDB**
-- 🌱 Learning **advanced DSA in Python** for placements (target: 15–30 LPA)
-- 💼 Have an **8 LPA offer from Infosys**
+- 🌱 Learning **advanced DSA in Python**
 - 💬 Ask me about **web development, MongoDB, Spring Boot, or DSA**
 - ⚡ Fun fact: I love clean UI, modular code, and late-night debugging sessions ☕
 
