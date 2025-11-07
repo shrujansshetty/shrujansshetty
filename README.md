@@ -79,7 +79,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrujan-shetty&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shrujansshetty&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -93,6 +93,6 @@
 ### 💡 Fun Extras
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shrujan-shetty&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shrujanssshetty&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
