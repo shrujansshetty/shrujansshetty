@@ -53,12 +53,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrujan-s-shetty&show_icons=true&theme=tokyonight" alt="Shrujan's GitHub stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrujan-s-shetty&theme=tokyonight" alt="Shrujan's GitHub streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shrujansshetty&show_icons=true&theme=tokyonight" alt="Shrujan's GitHub stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrujansshetty&theme=tokyonight" alt="Shrujan's GitHub streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrujan-s-shetty&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrujansshetty&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>
 
 ---
